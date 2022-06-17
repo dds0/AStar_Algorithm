@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourses/fonts/Helvetica.ttf</file>
+        <file>resourses/fonts/Helvetica-Bold.ttf</file>
+        <file>resourses/fonts/Helvetica-BoldOblique.ttf</file>
+        <file>resourses/fonts/helvetica-compressed-5871d14b6903a.otf</file>
+        <file>resourses/fonts/helvetica-light-587ebe5a59211.ttf</file>
+        <file>resourses/fonts/Helvetica-Oblique.ttf</file>
+        <file>resourses/fonts/helvetica-rounded-bold-5871d05ead8de.otf</file>
+        <file>resourses/images/bg_1.png</file>
+        <file>resourses/images/bg_2.png</file>
+        <file>resourses/images/icon.png</file>
+        <file>resourses/images/offpng.png</file>
+        <file>resourses/images/modify_river.png</file>
+        <file>resourses/images/modify_finish.png</file>
+        <file>resourses/images/modify_forest.png</file>
+        <file>resourses/images/modify_mountain.png</file>
+        <file>resourses/images/modify_start.png</file>
+        <file>resourses/images/galka.png</file>
+        <file>resourses/images/krest.png</file>
+    </qresource>
+</RCC>
